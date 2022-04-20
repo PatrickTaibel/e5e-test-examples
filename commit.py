@@ -2,6 +2,6 @@ def myfunction(event, context):
     return {
         'data': {
             'branch': 'test',
-            'commit': 3,
+            'commit': 4,
         }
     }
