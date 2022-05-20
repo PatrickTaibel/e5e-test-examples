@@ -1,0 +1,16 @@
+zopfli-0.1.9.dist-info/COPYING,sha256=AYscuH7996BML8wT1X7WP2IUkRP7IHsn6hNDDWTxNRM,11341
+zopfli-0.1.9.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+zopfli-0.1.9.dist-info/METADATA,sha256=TcCH2TCHKUdXcVASDqXJRJ3E_8k-Ym9L3Q0XOH-VyrM,2804
+zopfli-0.1.9.dist-info/RECORD,,
+zopfli-0.1.9.dist-info/WHEEL,sha256=5mANX393z3i7ucGtzkFeeASWh1Qxo_dXobTetzGWRDU,104
+zopfli-0.1.9.dist-info/top_level.txt,sha256=8YLCDfhyb5xGrhwj1iQPEqZp7N4B4bA2qj6u2hwTF5s,7
+zopfli-0.1.9.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+zopfli/__init__.py,sha256=HryxuCPNRFxlbWMr1KRdGFdlNPCU7nyx-FTZdwKS65E,1147
+zopfli/__pycache__/__init__.cpython-36.pyc,,
+zopfli/__pycache__/_version.cpython-36.pyc,,
+zopfli/__pycache__/gzip.cpython-36.pyc,,
+zopfli/__pycache__/zlib.cpython-36.pyc,,
+zopfli/_version.py,sha256=ghFuq8DptpO7PID3HqG4He425FaEYwQu1OhHamdmtDQ,142
+zopfli/gzip.py,sha256=VNyr-JoekdPYUJGxJQKB2hps_MQmtvxnKVJh9lYNNe8,351
+zopfli/zlib.py,sha256=edllNBmik_ObNppI_6nMAcUMaDU6vNz_405R26oe_ps,337
+zopfli/zopfli.cpython-36m-x86_64-linux-gnu.so,sha256=35lw4nk2dG1WpWCpuVObl6fntMEjuo2yYC1jnTxY3WY,71968
