@@ -1,0 +1,4 @@
+weasyprint==55.0
+pillow==8.4
+numpy==1.22.3
+pandas==1.4.2
